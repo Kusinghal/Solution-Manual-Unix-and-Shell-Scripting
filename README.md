@@ -1,8 +1,6 @@
 # Solution-Manual
 Solutions for the Continuous Skill Development and Learning Modules
 
-##This repositories contains following solutions to following handson in
-
 ## Unix and Shell Scripting
 
  [Introduction to Unix](https://github.com/Kusinghal/Solution-Manual-Unix-and-Shell-Scripting/tree/main/Unix%20and%20Shell%20Scripting/Introduction%20to%20Unix)
